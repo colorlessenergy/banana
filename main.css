@@ -1,0 +1,19 @@
+footer {
+  background-color: #423E41;
+}
+
+.container div .height {
+  height: 300px;
+  margin-left: 100px;
+  width: 300px;
+}
+
+.jumbotron {
+  background-image: url("assets/bananabg.jpg");
+  color: #016E03;
+  font-size: 30px;
+}
+
+.margin {
+  margin-top: 40px;
+}
